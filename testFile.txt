@@ -1,2 +1,3 @@
 test git file
 Line 2 being added
+LINE 3 ADDED
