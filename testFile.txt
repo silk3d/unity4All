@@ -1,1 +1,2 @@
 test git file
+Line 2 being added
